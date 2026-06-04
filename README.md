@@ -1,5 +1,5 @@
 # Using Multilevel Odds Ratios to Analyze the Impact of Interdisciplinary Learning on Further Education Trends
-> 利用多層次勝算比分析跨領域學習對繼續升學走向的影響 <br>
+> 利用多層次勝算比分析跨領域學習對繼續升學走向的影響
 
 ## Overview
 This research analyzes how interdisciplinary learning experiences influence students’ further education trends using a multilevel odds ratio framework.
