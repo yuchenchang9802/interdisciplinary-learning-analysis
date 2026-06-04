@@ -18,7 +18,7 @@ To analyze the relationship between interdisciplinary learning experiences and s
 2. Data preprocessing and structured dataset construction
 3. Cohort-based classification
 4. Multilevel odds ratio framework construction and analysis
-5. Educational insight generation and recommendation analysis
+5. Educational insight generation and recommendation analysis <br>
 ![Methodology](images/methodology.png)
 
 ## Tech Stack
