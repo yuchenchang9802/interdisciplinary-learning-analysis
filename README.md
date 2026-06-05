@@ -41,6 +41,15 @@ To analyze the relationship between interdisciplinary learning experiences and s
 Example insight:
 Students from highly specialized disciplines, such as information and electrical engineering, showed relatively lower motivation toward interdisciplinary learning compared to other academic fields.
 
+## Research Contribution
+This research proposes a multilevel odds ratio framework for analyzing the relationship between interdisciplinary learning behaviors and further education trends.
+
+The framework supports:
+- Cross-department learning analysis
+- Cross-college learning analysis
+- Hierarchical cohort-based statistical analysis
+- Educational trend exploration
+
 ## Repository Structure
 ```text
 interdisciplinary-learning-analysis/
