@@ -14,12 +14,12 @@ To analyze the relationship between interdisciplinary learning experiences and s
 - Data-driven educational insights and recommendations
 
 ## Methodology
+![Methodology](images/methodology.png)
 1. Data extraction from educational data warehouses
 2. Data preprocessing and structured dataset construction
 3. Cohort-based classification
 4. Multilevel odds ratio framework construction and analysis
 5. Educational insight generation and recommendation analysis <br>
-![Methodology](images/methodology.png)
 
 ## Tech Stack
 - Python
@@ -30,6 +30,9 @@ To analyze the relationship between interdisciplinary learning experiences and s
 ## Analytical Methods
 - Multilevel Odds Ratio Analysis
 - Cohort Study
+
+## Multilevel Odds Ratio Architecture
+![Architecture](images/multilevel_OR.png)
 
 ## Result
 - Identified relationships between interdisciplinary learning patterns and further education trends
